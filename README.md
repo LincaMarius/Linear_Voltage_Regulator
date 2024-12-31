@@ -3,7 +3,7 @@ Designing a Robust Series Linear Voltage Regulator with Discrete Components.
 
 The starting schematic is shown in Figure 1.
 
-!( Figure 1 )[/ Pictures/ Figure1.png]
+!( Figure 1 )[/Pictures/Figure1.png]
 
 The design parameters are:
 - Output voltage
